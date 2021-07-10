@@ -23,6 +23,7 @@ python twitter_search.py
 I used Python 3 and tweepy version 3.5.0.  You will also need the other
 packages imported :
 
+```
 - import tweepy
 - from tweepy import OAuthHandler
 - import json
@@ -30,3 +31,4 @@ packages imported :
 - import time
 - import os
 - import sys
+```
